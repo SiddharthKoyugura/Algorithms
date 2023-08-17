@@ -34,3 +34,14 @@ function merge(left, right){
 }
 
 console.log(mergeSort(numbers));
+
+/* 
+Time Complexity:
+best:- O(nlogn)
+Average: O(nlogn)
+worst: O(nlogn)
+
+
+Space Complexity:
+worst:- O(n)
+*/
